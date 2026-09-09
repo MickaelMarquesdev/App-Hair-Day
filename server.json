@@ -1,0 +1,25 @@
+{
+  "schedules": [
+    {
+      "id": "L-zH7z0efgU",
+      "name": "Mickael",
+      "when": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "EMhUqmXoduM",
+      "name": "Mickael",
+      "when": "2026-09-01T12:00:00.000Z"
+    },
+    {
+      "id": "z6_-GWBYUZM",
+      "name": "Vitor",
+      "when": "2026-09-01T13:00:00.000Z"
+    },
+    {
+      "id": "H_JlMm3Vikw",
+      "name": "Mickael",
+      "when": "2026-09-05T00:00:00.000Z"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
